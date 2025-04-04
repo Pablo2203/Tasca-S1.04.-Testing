@@ -1,6 +1,5 @@
 package org.example.level2.allExercises;
 
-import org.example.level2.allExercises.Car;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.BeforeEach;
 
